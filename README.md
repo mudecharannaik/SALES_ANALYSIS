@@ -38,3 +38,13 @@ The analysis focuses on:
   1. Evaluated profit margins across product categories.
   2. Recommended strategies to improve profitability.
 
+Plots 
+![image](https://github.com/user-attachments/assets/b44eda2b-29ee-49ee-a587-29878523db7b)
+![Uploading newplot.png…]()
+![1](https://github.com/user-attachments/assets/a9b9b817-3419-4e7b-9134-293be430852f)
+![2](https://github.com/user-attachments/assets/a0c28d42-27b2-473a-82e6-41d034205286)
+![3](https://github.com/user-attachments/assets/380b6cd1-afd0-4f0e-b6fd-23d9ae5772d3)
+![4](https://github.com/user-attachments/assets/64dffff2-4b78-4d5b-9085-f70e1820a2eb)
+![5](https://github.com/user-attachments/assets/9b0ca55a-c86b-48f2-b53f-cc2eff835cee)
+![6](https://github.com/user-attachments/assets/28681c17-7cb9-4332-a6b9-c943d9fc968d)
+
