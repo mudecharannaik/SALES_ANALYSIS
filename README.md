@@ -39,7 +39,7 @@ The analysis focuses on:
   2. Recommended strategies to improve profitability.
 
 # PowerBi Dashboard Link
-https://iitracin-my.sharepoint.com/:u:/g/personal/mude_cn_es_iitr_ac_in/EQTpTvjtPKFPtawMs0QkjJ4B1a_7-7vFKzWLWKqNc3fatQ?e=Cg11sv
+https://iitracin-my.sharepoint.com/:u:/g/personal/mude_cn_es_iitr_ac_in/EQTpTvjtPKFPtawMs0QkjJ4B1a_7-7vFKzWLWKqNc3fatQ?e=jZpDfd
 
 # Plots, Bars and Chats
 ![0](https://github.com/user-attachments/assets/22193d5c-2f1c-4360-9335-6ea1a89c653b)
