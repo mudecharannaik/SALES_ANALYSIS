@@ -38,6 +38,9 @@ The analysis focuses on:
   1. Evaluated profit margins across product categories.
   2. Recommended strategies to improve profitability.
 
+# PowerBi
+
+[SuperStore Sales Analysis.pdf](https://github.com/user-attachments/files/18420861/SuperStore.Sales.Analysis.pdf)
 
 
 # Plots, Bars and Chats
